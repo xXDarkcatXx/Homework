@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Natth
+ * @author darkcat
  */
 public class GasolineCalculation extends javax.swing.JFrame {
 

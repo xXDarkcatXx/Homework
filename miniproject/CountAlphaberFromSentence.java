@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author bass5
+ * @author darkcat
  */
 public class CountAlphaberFromSentence extends javax.swing.JFrame {
 

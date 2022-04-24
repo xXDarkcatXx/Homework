@@ -10,7 +10,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author bass5
+ * @author darkcat
  */
 public class GradeCalculation extends javax.swing.JFrame {
 

@@ -10,7 +10,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author bass5
+ * @author darkcat
  */
 public class Averagemaxmin extends javax.swing.JFrame {
 

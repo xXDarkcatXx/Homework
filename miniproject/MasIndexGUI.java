@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author bass5
+ * @author darkcat
  */
 public class MasIndexGUI extends javax.swing.JFrame {
 
